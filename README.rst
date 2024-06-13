@@ -4,8 +4,8 @@ CLIS LIS2-A results import for SENAITE
 .. image:: https://img.shields.io/pypi/v/senaite.lis2a.svg?style=flat-square
     :target: https://pypi.python.org/pypi/senaite.lis2a
 
-.. image:: https://img.shields.io/travis/senaite/senaite.lis2a/master.svg?style=flat-square
-    :target: https://travis-ci.org/senaite/senaite.lis2a
+.. image:: https://img.shields.io/github/actions/workflow/status/senaite/senaite.lis2a/build-and-test.yml?branch=2.x
+   :target: https://github.com/senaite/senaite.lis2a/actions/workflows/build-and-test.yml?query=branch:2.x
 
 .. image:: https://readthedocs.org/projects/pip/badge/
     :target: https://senaitelis2a.readthedocs.org
