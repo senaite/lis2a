@@ -124,7 +124,8 @@ Extracting results from a message
 We can directly extract the results from a message:
 
     >>> message = utils.read_file("example_lis2a2_01.txt")
-    >>> results = api.extract_results(message)
+    >>> interpreter = api.get_interpreter_for(message)
+    >>> results = api.extract_results(message, interpreter)
 
 And we get one result for each (R)esult record, with the rest of result records
 as interim fields:
