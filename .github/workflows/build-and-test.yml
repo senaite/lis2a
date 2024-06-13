@@ -1,4 +1,4 @@
-name: build and test senaite.storage
+name: build and test senaite.lis2a
 on:
   - push
   - pull_request
